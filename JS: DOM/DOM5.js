@@ -8,14 +8,11 @@ btnMinus.disabled = true;
 
 btnPlus.onclick = () => {
 	if (input_s.value >= 0 && input_s.value<=9) {
-		
 		input_s.value++;
 		if(input_s.value == 9){
-
 			btnPlus.disabled = true;
-		} else {
-			
-			btnMinus.disabled = false;
+		} else {			
+  			btnMinus.disabled = false;
 		}
 
 	}
@@ -23,13 +20,10 @@ btnPlus.onclick = () => {
 
 btnMinus.onclick = () => {
 	if (input_s.value >= 0 && input_s.value<=9) {
-		
 		input_s.value--;
 		if(input_s.value == 0){
-
 			btnMinus.disabled = true;
 		} else {
-			
 			btnPlus.disabled = false;
 		}
 	}

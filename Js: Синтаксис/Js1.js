@@ -1,5 +1,5 @@
 // ----------------------------------------------------1 Exercise--------------------------------------
-alert('Hi. the first code! And it is mine! new text from new line!');
+alert('Hi. the first code! And it is mine! \n new text from new line!');
 
 // ----------------------------------------------------2 Exercise--------------------------------------
 

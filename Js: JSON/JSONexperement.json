@@ -3,18 +3,18 @@
     "FIO": "Porcescu Dmitri Ion",
     "BirthData": "23.04.2000",
     "Gender": "Male",
-    "IDNP": "2345642345654",
+    "IDNP": 2345642345654,
     "BirthPlace": "Moldova"
   },
   "WorkerData": {
-    "Mob": "067454051",
-    "Mob_home": "026223457",
+    "Mob": 067454051,
+    "Mob_home": 026223457,
     "Addres": "Indelegentii 43",
     "@mail": "zapasnoi.nemail@mail.ru",
     "Post": "Junior Game-Developer",
     "StartWorkTime": "11.11.2022",
-    "Salary": "10",
-    "WorkerRating": "5",
+    "Salary": 10,
+    "WorkerRating": 5,
     "WorkPlace": "Special Developer Squad",
     "WorkGraph": "8:00 - 17:00/dinner 12:00-13:00"
   }
